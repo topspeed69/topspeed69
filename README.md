@@ -12,18 +12,6 @@ Final-year CSE @ NIT Delhi. I build multi-agent AI systems, RL environments, and
 
 ---
 
-## Selected Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| **Multi-Agent Legal AI** | End-to-end legal reasoning pipeline — Top 15 nationally | LangGraph · RAG · Pinecone · FastAPI |
-| **EmailTriageEnv** | RL benchmark — 8 categories, SLA enforcement, thread dependencies | PyTorch · Gym · LLM eval |
-| **UrbanFlood OpenEnv** | City-scale flood crisis management, 8×8 urban grid, 3 difficulty tiers | PyTorch · RL |
-| **GNSS-Denied UAV Localization** | 5-stage vision pipeline: SuperPoint/LightGlue → DINOv2 VPR → orthorectification | OpenCV · PyTorch |
-| **HealthGrid** | Epidemic surveillance — Poisson z-scores, DBSCAN clustering, D3.js geo dashboard | FastAPI · D3.js · PostgreSQL |
-
----
-
 ## Tech Stack
 
 **Languages**
