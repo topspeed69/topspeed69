@@ -1,6 +1,6 @@
 # Vinay Mendole
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vinaymendole.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://vinaymendole.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinay_Mendole-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-mendole) [![Visitors](https://komarev.com/ghpvc/?username=topspeed69&style=flat-square&color=6e40c9&label=profile+views)](https://github.com/topspeed69)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vinaymendole.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://vinaymendole.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinay_Mendole-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinaymendole) [![Visitors](https://komarev.com/ghpvc/?username=topspeed69&style=flat-square&color=6e40c9&label=profile+views)](https://github.com/topspeed69)
 
 Final-year CSE @ NIT Delhi. I build multi-agent AI systems, RL environments, and autonomous robotics — and I care about understanding what I build, not just shipping the output.
 
